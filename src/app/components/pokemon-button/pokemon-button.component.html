@@ -1,0 +1,11 @@
+<div class="pokemon-button">
+  <button
+    class="btn btn-primary"
+    type="button"
+    [disabled]="loading"
+    (click)="loadMore()"
+  >
+    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+    {{ loading ? 'Loading...' : 'Carregar mais' }}
+  </button>
+</div>
