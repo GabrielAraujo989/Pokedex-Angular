@@ -1,5 +1,15 @@
 # PokedexAngular
 
+# Informações do projeto
+Este é um projeto de Pokedex desenvolvido com Angular. Ele utiliza a PokeAPI para buscar informações sobre Pokémon e exibi-los em uma interface bem apresentada.
+
+## Recursos
+
+- Visualize algumas informações sobre Pokémon, incluindo nome, número, tipo e imagem.
+- Carregue mais Pokémon com o toque de um botão.
+- Pesquise Pokémon por nome em tempo real.
+- Estilização atraente usando SASS e Bootstrap.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
